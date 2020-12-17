@@ -130,8 +130,8 @@ Migracion Jira-Issues(Gitlab): [Guía](https://docs.google.com/document/d/156wEG
 * Toda instalación es gestionada mediante los canales de Slack
 * Nuevas instalaciones o actualizaciones deben ser programadas y gestionadas, para ser ejecutada el mismo día debe haber un problema previo
 
-## FacturaloPeru
+## OPSFACTRO
 
-[facturaloperu.com](http://facturaloperu.com "Clic")<br>
-soporte@facturaloperu.com<br>
-wsapp: 930 973 902<br>
+[opsoru.com](https://opensourceperu.com "Clic")<br>
+comercial@opsoru.com<br>
+wsapp: 912 915 753<br>
